@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/agronholm/dummyproject/commit/91b440ff13d7bd1dba7ce66cb9cbd51f8adde90d",
       "git:hexsha": "91b440ff13d7bd1dba7ce66cb9cbd51f8adde90d",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "1.1.3"
     },
     {
