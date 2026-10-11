@@ -1,0 +1,11 @@
+{
+  "org": "agronholm",
+  "repo": "dummyproject",
+  "versions": [
+    {
+      "commit": "91b440ff13d7bd1dba7ce66cb9cbd51f8adde90d",
+      "tag": "1.1.3",
+      "parsed_at": "2026-10-11T19:20:38.927395+00:00"
+    }
+  ]
+}
