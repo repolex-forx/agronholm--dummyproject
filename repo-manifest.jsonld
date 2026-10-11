@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/agronholm/dummyproject/commit/91b440ff13d7bd1dba7ce66cb9cbd51f8adde90d",
       "git:hexsha": "91b440ff13d7bd1dba7ce66cb9cbd51f8adde90d",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "1.1.3"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "1.1.3",
+      "repolex:parsedAt": "2026-10-11T19:20:38.927072+00:00"
     },
     {
       "@id": "https://repolex.ai/r/agronholm/dummyproject/commit/c4586a920885954b321dbd8b14bd01aa9a9f2897",
